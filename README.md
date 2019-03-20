@@ -7,7 +7,7 @@ We propose an approach based on one-dimensional convolutional neural network for
 | F1 score | AF |	Normal | Other | AVG |
 | :---: | :---: | :---: | :---: | :---: |
 | Proposed 1D CNN | 80.0 | 90.5 | 74.7 | 81.7 |
-| Binary Classifier | 79.7  | 90.9 | 77.1 | 82.5 |
-| Electrocardiogram Classifcation CNN | 79.0  | 87.8 | 70.1 | 78.9 |
-| Electrocardiogram Classification CRNN | 76.4  | 88.8 | 72.6 | 79.2 |
-| Short Single-Lead | 80.0  | 91.0 | 76.0 | 82.3 |
+| [Binary Classifier](http://www.cinc.org/archives/2017/pdf/173-154.pdf) | 79.7  | 90.9 | 77.1 | 82.5 |
+| [Electrocardiogram Classifcation CNN](http://www.cinc.org/archives/2017/pdf/070-060.pdf) | 79.0  | 87.8 | 70.1 | 78.9 |
+| [Electrocardiogram Classification CRNN](http://www.cinc.org/archives/2017/pdf/070-060.pdf) | 76.4  | 88.8 | 72.6 | 79.2 |
+| [Densely Connected Convolutional Networks](http://www.cinc.org/archives/2017/pdf/160-246.pdf) | 80.0  | 91.0 | 76.0 | 82.3 |
